@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# OS/editor
+.DS_Store
+.vscode/
+
+# Docker/Postgres
+*.log
